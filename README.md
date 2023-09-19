@@ -12,7 +12,7 @@
     <p> 
         Study repository for course <b>Potência Tech powered by iFood</b> and <b>Formação Python Fundamentals</b> <br> (the link to the course is on the button "Formação" and "Bootcamp") 
     </p>
-    <img src="https://img.shields.io/badge/docker-black?style=for-the-badge&logo=Python&logoColor=blue" />
+    <img src="https://img.shields.io/badge/python-black?style=for-the-badge&logo=Python&logoColor=blue" />
     <br>
     <a href="https://www.dio.me/users/juhh1956">
         <img alt="Static Badge" src="https://img.shields.io/badge/my%20profile-red?style=for-the-badge&color=yellow">
