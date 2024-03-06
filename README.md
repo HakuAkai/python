@@ -14,7 +14,7 @@
     </p>
     <img src="https://img.shields.io/badge/python-black?style=for-the-badge&logo=Python&logoColor=blue" />
     <br>
-    <a href="https://www.dio.me/users/juhh1956">
+    <a href="https://www.linkedin.com/in/hakuakai/">
         <img alt="Static Badge" src="https://img.shields.io/badge/my%20profile-red?style=for-the-badge&color=yellow">
     </a>
     <a href="https://web.dio.me/track/04e5f7bf-e6a2-49f5-8f53-8de2237cae18">
