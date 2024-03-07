@@ -1,0 +1,32 @@
+1. Executar o algoritmo Conferir itens na geladeira
+2. Executar o algoritmo Conferir itens no armário
+3. Sair de casa
+4. Ir ao mercado
+5. O mercado está aberto?
+Se sim:
+    6. Entrar no mercado
+    7. Executar o algoritmo Pegar item 
+    8. Calcular o preço total da compra
+    9. Ir com o carrinho em direção ao
+    10. Passar as compras no caixa caixa
+    11. Esperar na fila
+    12. Pagar as compras
+    13. Colocar os itens em sacolas
+6. Voltar para casa
+
+Algoritmo Confrir itens:
+1. Abrir o móvel
+2. COnferir os itens que faltam
+3. Anotar os itens que faltam em um caderno
+
+Algoritmo PEgar item:
+1. Tem itens faltando na lista?
+Se sim:
+    2. Ir na estante
+    3. O item está na estante?
+    Se sim:
+        4. Comparar os preços
+        5. Pegar o item mais barato
+        6. Colocar no carrinho
+Se não:
+    2. Ir ao caixa

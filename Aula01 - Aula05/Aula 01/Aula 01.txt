@@ -1,0 +1,69 @@
+01. Temos Milho de pipoca em casa? 
+
+Se sim:
+  02. Ir na cozinha
+  03. Abrir a gaveta
+  04. Tem Tesoura me casa?
+
+  Se sim:
+    05. Pegar uma Tesoura
+    06. Fechar a gaveta
+    07. Cortar o pacote de Milho de pipoca
+    08. Colocar o pacote de Milho de pipoca em cima da mesa
+    09. Abrir a gaveta
+    10. Guardar a Tesoura 
+
+  Se não:
+    05. Pegar uma Faca
+    06. Fechar a gaveta
+    07. Cortar o pacote de Milho de pipoca
+    08. Colocar o pacote de Milho de pipoca em cima da mesa
+    09. Abrir a gaveta
+    10. Guardar a Faca
+
+  11. Fechar a gaveta
+  12. Abrir o armário
+  13. Pegar uma panela média
+  14. Fechar o armário
+  15. Colocar a panela no fogão
+  16. Colocar a tampa da panela em cima da mesa
+  17. Abrir a geladeira
+  18. Pegar o recipiente com óleo
+  19. Fechar a geladeira
+  20. Colocar o recipiente do óleo em cima da mesa
+  21. Pegar o pacote de milho para pipoca
+  22. Despejar os grãos de milho dentro da panela
+  23. Pegar o recipiente com óleo
+  24. Abrir o recipiente com óleo
+  25. Despejar o óleo até cobrir os grãos de milho
+  26. Fechar o recipiente com óleo
+  27. Abrir a geladeira
+  28. Guardar o recipiente com óleo
+  29. Fechar a geladeira
+  30. Pegar a tampa da panela
+  31. Colocar a tampa em cima da panela, a tampando
+  32. Ligar o fogão
+  33. Esperar os milhos estourarem
+  34. Desligar o fogão
+  35. Colocar as pipocas em um recipiente
+  36. Colocar sal na pipoca
+  37. Mexer a pipoca
+
+
+Se não:
+  02. Ir ao mercado
+  03. O mercado está aberto?
+
+  Se sim: 
+    04. Entrar no mercado
+    05. Ir na sessão de grãos do mercado
+    06. Procurar "Milho para pipoca" na estante
+    07. Tem "Milho para pipoca" na estante?
+
+    Se sim:
+      08. Pegar o pacote de "Milho para pipoca"
+      09. Ir ao caixa do mercado
+      10. Pagar pelo milho de pipoca
+      
+  04. Voltar para casa.
+
