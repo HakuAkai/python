@@ -122,7 +122,7 @@
         <tr>
             <td>02</td>
             <td>
-                <a href="bancoDados.py">IMC</a>
+                <a href="IMC.py">IMC</a>
             </td>
             <td align="center">
                 <a href="">
