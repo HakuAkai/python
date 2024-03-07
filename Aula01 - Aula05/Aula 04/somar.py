@@ -3,4 +3,5 @@ num2 = int(input("Digite outro número: "))
 
 resultado = (num1 + num2)
 
-print(resultado)
+print("----------------------------------------------")
+print(f"O resultado de {num1} + {num2} é: {resultado}")
