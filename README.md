@@ -13,7 +13,9 @@
         Study repository for courses <b>Potência Tech powered by iFood</b>, <b>Formação Python Fundamentals</b> and the subject <strong> Computational Thinking Using Python </strong> of FIAP Systems Analysis and Development. <br> (the links for courses are on the buttons "Formação", "Bootcamp" and "FIAP") 
     </p>
     <img src="https://img.shields.io/badge/python-black?style=for-the-badge&logo=Python&logoColor=blue" />
+    <br>
     <img src="https://img.shields.io/badge/diagrama-black?style=for-the-badge&logo=diagramsdotnet&logoColor=yellow" />
+    <img src="https://img.shields.io/badge/CMD-black?style=for-the-badge&logo=windowsterminal&logoColor=white" />
     <br>
     <a href="https://www.linkedin.com/in/hakuakai/">
         <img alt="Static Badge" src="https://img.shields.io/badge/my%20profile-red?style=for-the-badge&color=yellow">
