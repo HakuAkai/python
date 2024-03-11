@@ -3,7 +3,7 @@ Peso = float(input("Digite seu peso: "))
 
 print(Altura, Peso)
 
-IMC = Peso / (Altura**2) 
+IMC = Peso / ((Altura/100)**2) 
 
 print(IMC)
 
