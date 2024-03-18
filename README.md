@@ -76,7 +76,7 @@
         <tr>
             <td>02</td>
             <td>
-                <a href="https://github.com/HakuGarcia/Python/tree/d620138a32d856b42861ea3d8d917408d81b390f/Aula01%20-%20Aula05">Aula01 - Aula05</a>
+                <a href="https://github.com/HakuGarcia/Python/tree/f8bc6cd190779d22f634438411b7ae2105c3c2a1/Aula01%20-%20Aula06">Aula01 - Aula06</a>
             </td>
             <td align="center">
                 <a href="">
