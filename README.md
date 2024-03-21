@@ -74,9 +74,20 @@
             </td>
         </tr>
         <tr>
-            <td>02</td>
+            <td>03</td>
             <td>
-                <a href="https://github.com/HakuGarcia/Python/tree/0d21909b337a82d2ff1773813e9235c8894b3c31/Aula01%20-%20Aula06">Aula01 - Aula06</a>
+                <a href="https://github.com/HakuGarcia/Python/tree/b6f34040757597f332cb298715335a9a1ba3b245/Aula01%20-%20Aula05">Aula01 - Aula05</a>
+            </td>
+            <td align="center">
+                <a href="">
+                    <img align="center" src="https://img.shields.io/badge/FIAP-red?style=for-the-badge&color=blue">
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td>04</td>
+            <td>
+                <a href="https://github.com/HakuGarcia/Python/tree/b6f34040757597f332cb298715335a9a1ba3b245/Aula06%20-%20Aula10">Aula06 - Aula10</a>
             </td>
             <td align="center">
                 <a href="">
@@ -133,9 +144,20 @@
             </td>
         </tr>
         <tr>
-            <td>02</td>
+            <td>03</td>
             <td>
-                <a href="https://github.com/HakuGarcia/Python/tree/0d21909b337a82d2ff1773813e9235c8894b3c31/Aula01%20-%20Aula06">Aula01 - Aula06</a>
+                <a href="https://github.com/HakuGarcia/Python/tree/b6f34040757597f332cb298715335a9a1ba3b245/Aula01%20-%20Aula05">Aula01 - Aula05</a>
+            </td>
+            <td align="center">
+                <a href="">
+                    <img align="center" src="https://img.shields.io/badge/FIAP-red?style=for-the-badge&color=blue">
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td>04</td>
+            <td>
+                <a href="https://github.com/HakuGarcia/Python/tree/b6f34040757597f332cb298715335a9a1ba3b245/Aula06%20-%20Aula10">Aula06 - Aula10</a>
             </td>
             <td align="center">
                 <a href="">
