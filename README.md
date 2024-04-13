@@ -51,7 +51,7 @@
         <tr>
             <td>01</td>
             <td>
-                <a href="bancoDados.py">Sistema Bancário</a>
+                <a href="bancoDados.py">Módulo 01</a>
             </td>
             <td align="center">
                 <a href="">
@@ -65,18 +65,21 @@
         <tr>
             <td>02</td>
             <td>
-                <a href="https://github.com/HakuGarcia/Python/blob/d620138a32d856b42861ea3d8d917408d81b390f/IMC.py">IMC</a>
+                <a href="bancoDados.py">Sistema Bancário</a>
             </td>
             <td align="center">
                 <a href="">
-                    <img align="center" src="https://img.shields.io/badge/FIAP-red?style=for-the-badge&color=blue">
+                    <img align="center" src="https://img.shields.io/badge/formação-red?style=for-the-badge&color=blue">
+                </a>
+                <a>
+                    <img align="center" src="https://img.shields.io/badge/bootcamp-red?style=for-the-badge&color=yellow">
                 </a>
             </td>
         </tr>
         <tr>
             <td>03</td>
             <td>
-                <a href="https://github.com/HakuGarcia/Python/tree/b6f34040757597f332cb298715335a9a1ba3b245/Aula01%20-%20Aula05">Aula01 - Aula05</a>
+                <a href="https://github.com/HakuGarcia/Python/blob/d620138a32d856b42861ea3d8d917408d81b390f/IMC.py">IMC</a>
             </td>
             <td align="center">
                 <a href="">
@@ -87,7 +90,7 @@
         <tr>
             <td>04</td>
             <td>
-                <a href="https://github.com/HakuGarcia/Python/tree/b6f34040757597f332cb298715335a9a1ba3b245/Aula06%20-%20Aula10">Aula06 - Aula10</a>
+                <a href="https://github.com/HakuGarcia/Python/tree/b6f34040757597f332cb298715335a9a1ba3b245/Aula01%20-%20Aula05">Aula01 - Aula05</a>
             </td>
             <td align="center">
                 <a href="">
@@ -97,6 +100,17 @@
         </tr>
         <tr>
             <td>05</td>
+            <td>
+                <a href="https://github.com/HakuGarcia/Python/tree/b6f34040757597f332cb298715335a9a1ba3b245/Aula06%20-%20Aula10">Aula06 - Aula10</a>
+            </td>
+            <td align="center">
+                <a href="">
+                    <img align="center" src="https://img.shields.io/badge/FIAP-red?style=for-the-badge&color=blue">
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td>06</td>
             <td>
                 <a href="https://github.com/HakuGarcia/Python/tree/20a1a91f9b76350ce35fdeb474bcc97840b2883f/Aula%2011%20-%20Aula%2015">Aula11 - Aula15</a>
             </td>
@@ -132,7 +146,7 @@
         <tr>
             <td>01</td>
             <td>
-                <a href="bancoDados.py">Banking system</a>
+                <a href="bancoDados.py">Módulo 01</a>
             </td>
             <td align="center">
                 <a href="">
@@ -146,18 +160,21 @@
         <tr>
             <td>02</td>
             <td>
-                <a href="IMC.py">IMC</a>
+                <a href="bancoDados.py">Banking System</a>
             </td>
             <td align="center">
                 <a href="">
-                    <img align="center" src="https://img.shields.io/badge/FIAP-red?style=for-the-badge&color=blue">
+                    <img align="center" src="https://img.shields.io/badge/formação-red?style=for-the-badge&color=blue">
+                </a>
+                <a>
+                    <img align="center" src="https://img.shields.io/badge/bootcamp-red?style=for-the-badge&color=yellow">
                 </a>
             </td>
         </tr>
         <tr>
             <td>03</td>
             <td>
-                <a href="https://github.com/HakuGarcia/Python/tree/b6f34040757597f332cb298715335a9a1ba3b245/Aula01%20-%20Aula05">Aula01 - Aula05</a>
+                <a href="https://github.com/HakuGarcia/Python/blob/d620138a32d856b42861ea3d8d917408d81b390f/IMC.py">IMC</a>
             </td>
             <td align="center">
                 <a href="">
@@ -168,7 +185,7 @@
         <tr>
             <td>04</td>
             <td>
-                <a href="https://github.com/HakuGarcia/Python/tree/b6f34040757597f332cb298715335a9a1ba3b245/Aula06%20-%20Aula10">Aula06 - Aula10</a>
+                <a href="https://github.com/HakuGarcia/Python/tree/b6f34040757597f332cb298715335a9a1ba3b245/Aula01%20-%20Aula05">Aula01 - Aula05</a>
             </td>
             <td align="center">
                 <a href="">
@@ -178,6 +195,17 @@
         </tr>
         <tr>
             <td>05</td>
+            <td>
+                <a href="https://github.com/HakuGarcia/Python/tree/b6f34040757597f332cb298715335a9a1ba3b245/Aula06%20-%20Aula10">Aula06 - Aula10</a>
+            </td>
+            <td align="center">
+                <a href="">
+                    <img align="center" src="https://img.shields.io/badge/FIAP-red?style=for-the-badge&color=blue">
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td>06</td>
             <td>
                 <a href="https://github.com/HakuGarcia/Python/tree/20a1a91f9b76350ce35fdeb474bcc97840b2883f/Aula%2011%20-%20Aula%2015">Aula11 - Aula15</a>
             </td>
