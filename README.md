@@ -265,6 +265,27 @@
                 </a>
             </td>
         </tr>
+        <tr>
+            <td>08</td>
+            <td>
+                <a href="https://github.com/HakuGarcia/Python/tree/a2d12a51bc542eb8c928753c501161d259ea674c/Aula%2016%20-%20Aula%2020">Aula16 - Aula20</a>
+            </td>
+            <td align="center">
+                <a href="">
+                    <img align="center" src="https://img.shields.io/badge/FIAP-red?style=for-the-badge&color=blue">
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td>09</td>
+            <td>
+                <a href="https://github.com/HakuGarcia/Python/tree/a2d12a51bc542eb8c928753c501161d259ea674c/Aula%2021%20-%20Aula%2025">Aula21 - Aula25</a>
+            </td>
+            <td align="center">
+                <a href="">
+                    <img align="center" src="https://img.shields.io/badge/FIAP-red?style=for-the-badge&color=blue">
+                </a>
+            </td>
     </tbody>
     <tfoot></tfoot>
     </table>
