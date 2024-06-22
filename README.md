@@ -137,7 +137,7 @@
         <tr>
             <td>08</td>
             <td>
-                <a href="https://github.com/HakuGarcia/Python/tree/20a1a91f9b76350ce35fdeb474bcc97840b2883f/Aula%2011%20-%20Aula%2015">Aula16 - Aula20</a>
+                <a href="https://github.com/HakuGarcia/Python/tree/a2d12a51bc542eb8c928753c501161d259ea674c/Aula%2016%20-%20Aula%2020">Aula16 - Aula20</a>
             </td>
             <td align="center">
                 <a href="">
@@ -148,7 +148,7 @@
         <tr>
             <td>09</td>
             <td>
-                <a href="https://github.com/HakuGarcia/Python/tree/20a1a91f9b76350ce35fdeb474bcc97840b2883f/Aula%2011%20-%20Aula%2015">Aula21 - Aula25</a>
+                <a href="https://github.com/HakuGarcia/Python/tree/a2d12a51bc542eb8c928753c501161d259ea674c/Aula%2021%20-%20Aula%2025">Aula21 - Aula25</a>
             </td>
             <td align="center">
                 <a href="">
