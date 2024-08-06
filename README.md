@@ -10,7 +10,7 @@
         Repositório de estudos para os cursos <b>Potência Tech powered by iFood</b>, <b>Formação Python Fundamentals</b> e para a matéria <strong> Computational Thinking Using Python </strong> de Análise e Desenvolvimento de Sistemas da FIAP. <br> (os links para os cursos se encontram nos botões "Formação", "Bootcamp" e "FIAP") 
     </p>
     <p> 
-        Study repository for courses <b>Potência Tech powered by iFood</b>, <b>Formação Python Fundamentals</b> and the subject <strong> Computational Thinking Using Python </strong> of FIAP Systems Analysis and Development. <br> (the links for courses are on the buttons "Formação", "Bootcamp" and "FIAP") 
+        Study repository for courses <b>Potência Tech powered by iFood</b>, <b>Deegre Python Fundamentals</b> and the subject <strong> Computational Thinking Using Python </strong> of FIAP Systems Analysis and Development. <br> (the links for courses are on the buttons "Formação", "Bootcamp" and "FIAP") 
     </p>
     <img src="https://img.shields.io/badge/python-black?style=for-the-badge&logo=Python&logoColor=blue" />
     <br>
